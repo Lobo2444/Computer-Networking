@@ -36,3 +36,4 @@ Desktop ---> Ip config --> 192.168....
 4. Here switch 1 will do broadcast if the request comes from its network and switch 2 will do unicast to reply because it knows the destination already when it got when the destination was source address
 5. Then sending ping request(ICMP) from pc 1 and 2 to 3 and 4 all mac address will be learnt by switch
 6. Then verifying it by accessing switch CLI in real time using remote access(ssh/Telnet)
+7. Use "show mac address-table" in previlage mode in switch CLI
