@@ -78,7 +78,6 @@ A key part of this activity was identifying and preventing duplex mismatches
 
 * copy running-config startup-config
 * Rechecked all device configurations to ensure persistence after reload
-* Outcome
 
 
 
