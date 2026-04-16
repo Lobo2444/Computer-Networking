@@ -10,9 +10,9 @@ The network consists of three separate LAN segments:
 
 
 
-* **LAN 1 (Yellow zone):**Contains three PCs connected to a switch. This represents a small local network.
-* **LAN 2 (Cyan zone):** Another group of PCs connected to a second switch, forming a separate subnet.
-* **LAN 3 (Pink zone):** A third LAN with two PCs connected through a switch.
+* LAN 1 (Yellow zone):**Contains three PCs connected to a switch. This represents a small local network.
+* LAN 2 (Cyan zone):** Another group of PCs connected to a second switch, forming a separate subnet.
+* LAN 3 (Pink zone):** A third LAN with two PCs connected through a switch.
 
 
 
